@@ -1,0 +1,10 @@
+.form-control{
+  width: 600px;
+}
+
+.search-icon{
+  position: absolute;
+  left: 47%;
+  top: 25%;
+  color: blue;
+}
